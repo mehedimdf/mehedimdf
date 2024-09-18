@@ -26,6 +26,12 @@ Here are some ideas to get you started:
   <a href="https://www.apple.com/macos/macos-sequoia/" target="_blank" rel="noreferrer">
     <img src="https://cdn3.iconfinder.com/data/icons/social-media-logos-glyph/2048/5315_-_Apple-512.png" width="40" height="40"/>
   </a>
+ <a href="https://developer.apple.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jim-nielsen.com/macos/1024/xcode-2020-11-11.png" width="40" height="40"/>
+  </a>
+<a href="https://flutter.dev" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+  </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
@@ -35,15 +41,10 @@ Here are some ideas to get you started:
   <a href="https://www.github.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/>
   </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   </a>
-  <a href="https://developer.apple.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jim-nielsen.com/macos/1024/xcode-2020-11-11.png" width="40" height="40"/>
-  </a>
+
   <a href="https://www.json.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="json" width="40" height="40"/>
   </a>
