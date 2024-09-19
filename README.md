@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://www.svgrepo.com/show/452155/android.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://www.svgrepo.com/show/353751/flutter.svg" height="40" alt="react logo"  />
+  <img src="https://www.svgrepo.com/show/373604/flutter.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://www.svgrepo.com/show/452129/vs-code.svg" height="40" alt="html5 logo"  />
   <img width="12" />
