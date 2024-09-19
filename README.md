@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 ###
 
 <div align="left">
-  <img src="https://www.svgrepo.com/show/511330/apple-173.svg" height="40" alt="csharp logo"  />
+  <img src="https://www.svgrepo.com/show/452158/apple.svg" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Android_Studio_icon_%282023%29.svg" height="40" alt="Android Studio logo"  />
   <img width="12" />
-  <img src="https://cdn0.iconfinder.com/data/icons/material-circle-apps/512/icon-android-material-design-512.png" height="40" alt="typescript logo"  />
+  <img src="https://www.svgrepo.com/show/452155/android.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://www.svgrepo.com/show/353751/flutter.svg" height="40" alt="react logo"  />
   <img width="12" />
@@ -38,7 +38,17 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://www.svgrepo.com/show/452202/figma.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://www.svgrepo.com/show/473666/ios.svg" height="40" alt="csharp logo"  />
+  <img src="https://www.svgrepo.com/show/452233/ios.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/452083/pc.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/512487/microsoft-150.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/452159/app-store.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/452211/github.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/452223/google-play.svg" height="40" alt="csharp logo"  />
 </div>
 
 ###
