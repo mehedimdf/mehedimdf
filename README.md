@@ -24,19 +24,21 @@ Here are some ideas to get you started:
 ###
 
 <div align="left">
+  <img src="https://www.svgrepo.com/show/511330/apple-173.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Android_Studio_icon_%282023%29.svg" height="40" alt="Android Studio logo"  />
   <img width="12" />
   <img src="https://cdn0.iconfinder.com/data/icons/material-circle-apps/512/icon-android-material-design-512.png" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://www.svgrepo.com/show/353751/flutter.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://www.svgrepo.com/show/452129/vs-code.svg" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://www.svgrepo.com/show/353631/dart.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://www.svgrepo.com/show/452202/figma.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img src="https://www.svgrepo.com/show/473666/ios.svg" height="40" alt="csharp logo"  />
 </div>
 
 ###
