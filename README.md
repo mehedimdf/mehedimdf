@@ -42,7 +42,7 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://www.svgrepo.com/show/452083/pc.svg" height="40" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://www.svgrepo.com/show/512487/microsoft-150.svg" height="40" alt="csharp logo"  />
+  <img src="https://www.svgrepo.com/show/452062/microsoft.svg" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://www.svgrepo.com/show/452159/app-store.svg" height="40" alt="csharp logo"  />
   <img width="12" />
