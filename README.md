@@ -49,6 +49,8 @@ Here are some ideas to get you started:
   <img src="https://www.svgrepo.com/show/452211/github.svg" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://www.svgrepo.com/show/452223/google-play.svg" height="40" alt="csharp logo"  />
+ <img width="12" />
+  <img src="https://www.svgrepo.com/show/452128/visa.svg" height="40" alt="csharp logo"  />
 </div>
 
 ###
