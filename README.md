@@ -68,12 +68,6 @@ Here are some ideas to get you started:
 
 </p>
 
-<div align="center">
-
-<img aligh="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarwar-asik&theme=maro&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-
-</div>
-
 
 ###
 ## 🏆 GitHub Trophies
