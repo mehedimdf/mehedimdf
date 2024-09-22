@@ -52,6 +52,27 @@ Here are some ideas to get you started:
 
 ###
 
+# 📊 GitHub Stats:
+
+<p align="center">
+  <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/left.webp">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarwar-asik&theme=dark&hide_border=true"/>
+
+  <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/right.webp">
+
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sarwar-asik&show_icons=true&theme=transparent" alt="GitHub Stats">
+</p>
+   
+ </br>
+
+</p>
+
+<div align="center">
+
+<img aligh="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarwar-asik&theme=maro&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+
+</div>
 
 
 ###
