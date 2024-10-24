@@ -14,9 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a  href="https://git.io/typing-svg"><img  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&pause=1000&center=true&vCenter=true&multiline=true&width=670&lines=Hi👋+I'm+Mehedi+Bin+Abdus+Salam..;Flutter+Developer+Android+iOS+< />" alt="Typing role" /></a>
+<a  href="https://git.io/typing-svg"><img  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&pause=1000&center=true&vCenter=true&multiline=true&width=670&lines=Hi👋+I'm+Mehedi+Bin+Abdus+Salam..;Flutter+Developer+Android+iOS< />" alt="Typing role" /></a>
 </h3>
+<br/>
+<br/>
 
+<img align="right" height="380" width="100%" alt="sarwar banner" src="./https://drive.google.com/file/d/1xVBrrR_rJ11X5UgjEs7lE7AgLViApsG1/view?usp=sharing" />
     
 # 🖥️ Technical Skills: 
 ###
