@@ -1,6 +1,7 @@
 <!--
 **MehediBinAbdusSalam/MehediBinAbdusSalam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -12,10 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
-<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Mehedi+Bin+Abdus+Salam..;Flutter+Developer+Android+iOS;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p>
-    
+
+<a  href="https://git.io/typing-svg"><img  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&pause=1000&center=true&vCenter=true&multiline=true&width=670&lines=Hi👋+I'm+Mehedi+Bin+Abdus+Salam..;Flutter+Developer+Android+iOS+< />" alt="Typing role" /></a>
+</h3>
 
     
 # 🖥️ Technical Skills: 
