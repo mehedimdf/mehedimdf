@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-<img align="right" height="380" width="100%" alt="banner" src="https://drive.google.com/file/d/1xVBrrR_rJ11X5UgjEs7lE7AgLViApsG1" />
+<img align="right" height="380" width="100%" alt="banner" src="./banner.jpeg" />
     
 # 🖥️ Technical Skills: 
 ###
