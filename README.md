@@ -17,10 +17,17 @@ Here are some ideas to get you started:
 <a  href="https://git.io/typing-svg"><img  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&pause=1000&center=true&vCenter=true&multiline=true&width=670&lines=Hi👋+I'm+Mehedi+Bin+Abdus+Salam..;Flutter+Developer+Android+iOS< />" alt="Typing role" /></a>
 </h3>
 <br/>
-<img align="right" height="200" width="100%" bottom="10px" alt="banner" src="./banner.jpeg" />
+
+
+<div>
+ <img align="left" height="220" width="100%" bottom="10px" alt="banner" src="./banner.jpeg" />
+</div>
+
+###
 
 <br/>
 <br/>
+-
     
 # 🖥️ Technical Skills: 
 ###
