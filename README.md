@@ -82,9 +82,6 @@ Here are some ideas to get you started:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehedimdf&theme=react-dark&bg_color=0D1117&hide_border=true" width="100%" alt="sarwar contribution graph"/>
 <br/>
 
-###
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mehedimdf&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <!--START_SECTION:waka-->
 
 ```text
