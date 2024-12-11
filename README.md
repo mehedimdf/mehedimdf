@@ -68,7 +68,6 @@ Here are some ideas to get you started:
 <p align="center">
   <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/left.webp">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehedimdf&theme=dark&hide_border=true"/>
-
   <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/right.webp">
 
   <p align="center">
@@ -78,13 +77,8 @@ Here are some ideas to get you started:
  </br>
 
 </p>
-<br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehedimdf&theme=react-dark&bg_color=0D1117&hide_border=true" width="100%" alt="sarwar contribution graph"/>
-<br/>
 
-<!--START_SECTION:waka-->
 
-```text
-Dart   3 hrs 58 mins    █████████████████████████   100.00 %
-```
-<!--END_SECTION:waka-->
+
+#
+
